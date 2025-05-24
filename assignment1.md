@@ -66,6 +66,8 @@ Best Performer: SAC
 - Retrain all 3 agents with this new reward.
 - Compare new performance vs. the original.
 
+You can take help of [`RewardWrapper`](https://gymnasium.farama.org/api/wrappers/reward_wrappers/) from Gymnasium to implement the custom reward function.
+
 #### Reward Equation:
 $$
 r_{\text{custom}} = r_{\text{orig}} - \lambda \cdot \sum_{i=1}^{N} \left| \Delta \theta_i \right|
