@@ -21,7 +21,7 @@ Explore OpenAI Gymnasium’s `BipedalWalker-v3` environment, train agents using 
 
 ## 🧠 Future Updates
 
-This repository will be updated with additional assignments, projects, and tutorials. Stay tuned!
+This repository will be updated with additional assignments, projects. Stay tuned!
 
 > For questions or collaboration:  
 > Contact: utsharoy99@gmail.com
