@@ -67,6 +67,11 @@ Best Performer: SAC
 - Compare new performance vs. the original.
 
 #### Reward Equation:
+$$
+r_{\text{custom}} = r_{\text{orig}} - \lambda \cdot \sum_{i=1}^{N} \left| \Delta \theta_i \right|
+$$
+
+In code it should looks like:
 ```
 r_custom = r_orig - λ * sum(abs(Δθ_i))
 ```
@@ -90,4 +95,4 @@ Custom A2C Reward: 210.15
 - [ ] Output logs/screenshots
 - [ ] Graph/table comparisons
 - [ ] Custom reward implementation
-- [ ] Short summary report
+<!-- - [ ] Short summary report -->
