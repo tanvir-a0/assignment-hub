@@ -29,7 +29,7 @@ This repository will be updated with additional assignments, projects, and tutor
 ---
 
 ☕ **Like this repo?**  
-If you found any assignment useful or interesting, feel free to reach out or buy me a coffee sometime!  
+If you found any assignment useful or interesting, feel free to reach out or **buy me a coffee** sometime!  
 Let's connect and talk tech, research, or robots.
 
 ---
